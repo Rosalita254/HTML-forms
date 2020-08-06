@@ -1,0 +1,141 @@
+body {
+  font-family: sans-serif;
+    background-color: #eceef1;
+    color: #404040;
+}
+
+input[type="submit"] {
+  color: white;
+  background-color: #0075c5;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #0077C5;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+  padding: 8px 34px 0px;
+}
+
+#navwords {
+    font-size: 12px;
+    line-height: 18px;
+    padding: 6px;
+    position: relative;
+    top: -5px;
+    
+}
+
+#signin {
+  height: 34px;
+  margin-left: 5px;
+  width: 102px;
+}
+
+main {
+  width: 100%;
+  height: 660px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 150px;
+}
+
+#logo {
+  width: 310px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 14px;
+}
+
+#align {
+  display: inline-block;
+  width: 380px;
+  height: 600px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+#centercontent {
+  border: 1px solid lightgrey;
+  border-radius: 2px;
+  background-color: white;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  padding: 4px;
+  font-size: 20px;
+}
+
+#forlearnmore {
+  text-align: center;
+  display: block;
+    text-decoration: none;
+    font-size: 12px;
+    padding-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  margin-left: 40px;
+  padding-bottom: 13px;
+    text-align: left;
+    font-size: 14px;
+}
+
+input {
+  display: block;
+  margin-left: 40px;
+  margin-bottom: 34px;
+  height: 30px;
+  width: 80%;
+  font-size: 15px;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+}
+
+#phonenote {
+  position: relative;
+  margin-left: 40px;
+  top: -30px;
+  font-size: 10px;
+  text-align: left;
+}
+
+#submitaccount {
+  margin-left: 50px;
+  width: 75%;
+  height: 44px;
+}
+#terms {
+  padding-bottom: 60px;
+  line-height: 20px;
+  color: grey;
+  font-size: 12px;
+    font-style: italic;
+    position: relative;
+  left: 8%;
+    width: 84%;
+  height: 40px;
+  text-align: center;
+}
+#footer {
+  color: #505050;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+
+#footerlinks {
+  text-align: center;
+  font-size: 12px;
+    margin-bottom: 5px;
+  }
